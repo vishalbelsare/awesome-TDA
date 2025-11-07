@@ -308,13 +308,13 @@ If you know of any other tools or resources, read [Contribution Guidelines](http
 
 - [International Conference on Computational Topology and Topological Data Analysis](https://waset.org/computational-topology-and-topological-data-analysis-conference)
 
-### 2024
+### 2026
 
-- [Jan. 30 - Feb. 2 | The 4th POSTECH MINDS Workshop on Topological Data Analysis and Machine Learning | Korea ](https://sites.google.com/view/2024-tda-ml/home)
- 
-- [Feb. 7 - Apr. 1 | self-study group for textbook: "Computational Topology for Data Analysis" | zoom ](https://www.erdosinstitute.org/programs/spring-2024/topological-data-analysis)
+- [Mar. 30 - Mar. 31 | H2O: Higher-Order Pattern-Discovery in High-Dimensional Data | Denmark](https://appliedtopology.org/)
 
-- [Mar. 21 - Mar. 22 | Workshop on Topological Data Analysis | India ](https://cus.ac.in/images/content/dynamic/noti/2024/March/Workshop%20Poster.pdf)
+- [May. 11 - May. 12 | International Conference on Computational Topology and Topological Data Analysis ICCTTDA | France](https://conferenceindex.org/event/international-conference-on-computational-topology-and-topological-data-analysis-iccttda-2026-may-paris-fr)
+
+- [Nov. 30 | Workshop on Polyhedral Geometry for Neural Networks | Nuremberg](https://neuralpolytopes.gitlab.io/workshop2026/)
 
 ### 2025
 
@@ -330,12 +330,15 @@ If you know of any other tools or resources, read [Contribution Guidelines](http
 
 - [Nov. 10 - Nov. 14 | Workshop on Geometry, Topology, and Machine Learning (GTML) | Germany](https://www.mis.mpg.de/events/series/workshop-on-geometry-topology-and-machine-learning-gtml-2025)
 
-### 2026
+### 2024
 
-- [Mar. 30 - Mar. 31 | H2O: Higher-Order Pattern-Discovery in High-Dimensional Data | Denmark](https://appliedtopology.org/)
+- [Jan. 30 - Feb. 2 | The 4th POSTECH MINDS Workshop on Topological Data Analysis and Machine Learning | Korea ](https://sites.google.com/view/2024-tda-ml/home)
+ 
+- [Feb. 7 - Apr. 1 | self-study group for textbook: "Computational Topology for Data Analysis" | zoom ](https://www.erdosinstitute.org/programs/spring-2024/topological-data-analysis)
 
-- [May. 11 - May. 12 | International Conference on Computational Topology and Topological Data Analysis ICCTTDA | France](https://conferenceindex.org/event/international-conference-on-computational-topology-and-topological-data-analysis-iccttda-2026-may-paris-fr)
+- [Mar. 21 - Mar. 22 | Workshop on Topological Data Analysis | India ](https://cus.ac.in/images/content/dynamic/noti/2024/March/Workshop%20Poster.pdf)
 
-- [Nov. 30 | Workshop on Polyhedral Geometry for Neural Networks | Nuremberg](https://neuralpolytopes.gitlab.io/workshop2026/)
+
+
 
 - [Sep. 7 - Dec. 18, Dual Trimester Program: Geometric Statistics: theory, application, and computation | Germany](https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-3-dtp-2026)
