@@ -86,7 +86,7 @@ If you know of any other tools or resources, read [Contribution Guidelines](http
 
 -  :open_book: [Topological Methods for 3D Point Cloud Processing](https://www-users.cse.umn.edu/~beksi001/publications/topological_methods_for_3d_point_cloud_processing.pdf) - William Joseph Beksi.
 
-- :open_book: [Topology for Computing](http://directory.umm.ac.id/Networking%20Manual/Topology%20for%20Computing.pdf) - AFRA J ZOMORODIAN.
+- :open_book: [Topology for Computing](https://api.pageplace.de/preview/DT0400.9780511081309_A23689237/preview-9780511081309_A23689237.pdf) - AFRA J ZOMORODIAN.
 
 - [Topological Methods in Data Analysis and Visualization: Theory, Algorithms, and Applications](https://www.springer.com/gp/book/9783642150135)
 - [Topological Methods in Data Analysis and Visualization: Theory, Algorithms, and Applications II](https://www.springer.com/gp/book/9783642231742)
@@ -165,7 +165,7 @@ If you know of any other tools or resources, read [Contribution Guidelines](http
 ### C++  
 - [Dionysus](http://mrzv.org/software/dionysus/) - Computing persistent (co)homology, Implementation of the Persistent (co)homology computation, Vineyards, Zigzag persistent homology algorithms.
 
-- [PHAT](https://bitbucket.org/phat-code/phat) - Persistent Homology Algorithm Toolbox.
+- [PHAT](https://github.com/blazs/phat) - Persistent Homology Algorithm Toolbox.
 
 - [Topology ToolKit (TTK)](https://topology-tool-kit.github.io/) - Efficient, generic and easy and Topological data analysis and visualization
     
@@ -190,7 +190,7 @@ If you know of any other tools or resources, read [Contribution Guidelines](http
 
 - [Giotto TDA(GTDA)](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html) - A high-performance topological machine learning toolbox
 
-- [GUDHI](http://gudhi.gforge.inria.fr/) - Geometry Understanding in Higher Dimensional with a Python interface.
+- [GUDHI](http://gforge.inria.fr/) - Geometry Understanding in Higher Dimensional with a Python interface.
 
 - [KeplerMapper](https://github.com/MLWave/kepler-mapper) - TDA Mapper algorithm for visualization of high-dimensional data. it can make use of Scikit-Learn API compatible cluster and scaling algorithms.
 
