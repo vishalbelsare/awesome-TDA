@@ -320,4 +320,22 @@ If you know of any other tools or resources, read [Contribution Guidelines](http
 
 - [Jan. 8 | AMS Special Session on Topological Data Analysis: Theory and Applications](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss121.html)
 
+- [Jun. 22 - Jun. 28 | Dynamics, Topology and Computations | Poland](https://dytocomp2025.matinf.uj.edu.pl/)
+
 - [Jun. 30 - Jul. 4 | EWM-EMS Summer School: Stability in Topological Data Analysis | Sweden](https://www.mittag-leffler.se/activities/ewm-ems-summer-school-stability-in-topological-data-analysis/#program)
+
+- [Aug. 25 - Aug. 29 | Workshop on Topological Data Analysis | Canada](http://www.fields.utoronto.ca/activities/25-26/neuroscience-TDA)
+
+- [Nov. 2 | IEEE Workshop on Topological Data Analysis and Visualization | Austria](https://topoinvis-workshop.github.io/2025/program.html)
+
+- [Nov. 10 - Nov. 14 | Workshop on Geometry, Topology, and Machine Learning (GTML) | Germany](https://www.mis.mpg.de/events/series/workshop-on-geometry-topology-and-machine-learning-gtml-2025)
+
+### 2026
+
+- [Mar. 30 - Mar. 31 | H2O: Higher-Order Pattern-Discovery in High-Dimensional Data | Denmark](https://appliedtopology.org/)
+
+- [May. 11 - May. 12 | International Conference on Computational Topology and Topological Data Analysis ICCTTDA | France](https://conferenceindex.org/event/international-conference-on-computational-topology-and-topological-data-analysis-iccttda-2026-may-paris-fr)
+
+- [Nov. 30 | Workshop on Polyhedral Geometry for Neural Networks | Nuremberg](https://neuralpolytopes.gitlab.io/workshop2026/)
+
+- [Sep. 7 - Dec. 18, Dual Trimester Program: Geometric Statistics: theory, application, and computation | Germany](https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-3-dtp-2026)
