@@ -220,6 +220,8 @@ If you know of any other tools or resources, read [Contribution Guidelines](http
 
 - [TMAP](https://tmap.readthedocs.org) - Population-scale microbiome data analysis.
 
+- [PH Training](https://github.com/need-singularity/ph-training) - Automatic model training pipeline powered by Persistent Homology. Epoch-1 difficulty prediction, automatic LR search, and real-time overfitting detection.
+
 ### R
 - [TDA](https://cran.r-project.org/web/packages/TDA/) - Tools for the statistical analysis of persistent homology and for density clustering.
 
@@ -265,6 +267,10 @@ If you know of any other tools or resources, read [Contribution Guidelines](http
 - [On Characterizing the Capacity of Neural Networks Using Algebraic Topology](https://openreview.net/forum?id=H11lAfbCW)
 
 - [Using Topological Data Analysis to Understand the Behavior of Convolutional Neural Networks](https://www.ayasdi.com/blog/artificial-intelligence/using-topological-data-analysis-understand-behavior-convolutional-neural-networks/)
+
+- [Anima](https://github.com/need-singularity/anima) - Conversational consciousness agent with PureField Engine, GRU memory, voice (TTS/STT), and real-time PH overfitting detection.
+
+- [TECS-L](https://github.com/need-singularity/TECS-L) - Consciousness Continuity Engine with 375+ hypotheses, 130+ experiments, and PureField theory source.
 
 ### Machine Learning
 - [How TDA and Machine Learning Enhance Each Other](https://www.ayasdi.com/blog/bigdata/how-tda-and-machine-learning-enhance-each-other/)
