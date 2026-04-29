@@ -210,7 +210,7 @@ If you know of any other tools or resources, read [Contribution Guidelines](http
   
 - [Ripser](https://ripser.scikit-tda.org/en/latest/) -  lean persistent homology package.
 
-- [TopoDrift](https://github.com/FranzuBaren/topodrift) - First open  benchmark for topological drift detection: evaluates persistent homology against KS/MMD/PSI on 7 regime types invisible to classical statistics.
+- [TopoDrift](https://github.com/FranzuBaren/topodrift) - Open benchmark for topological drift detection: evaluates persistent homology against KS/MMD/PSI on 7 regime types invisible to classical statistics.
   
 - [Scikit-TDA](https://scikit-tda.org/) - For non-topologists.
 
