@@ -210,6 +210,8 @@ If you know of any other tools or resources, read [Contribution Guidelines](http
   
 - [Ripser](https://ripser.scikit-tda.org/en/latest/) -  lean persistent homology package.
 
+- [TopoDrift](https://github.com/FranzuBaren/topodrift) - First open  benchmark for topological drift detection: evaluates persistent homology against KS/MMD/PSI on 7 regime types invisible to classical statistics.
+  
 - [Scikit-TDA](https://scikit-tda.org/) - For non-topologists.
 
 - [Giotto-TDA](https://giotto-ai.github.io/gtda-docs/) - A ``scikit-learn`` - compatible library for end-to-end topological machine learning including Mapper, persistent homology, vectorization methods for persistence diagrams, and preprocessing components for time series, graphs, images, and point clouds ([paper](https://openreview.net/forum?id=fjQtZJOCTXf)).
