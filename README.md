@@ -277,16 +277,35 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 - [Topological Data Analysis](https://researcher.watson.ibm.com/researcher/view_group.php?id=6585) - IBM.
 - [Theory and applications of topological data analysis](https://datawarrior.wordpress.com/category/tda/)
 
+
 ## Event
 
-- [Conferences and workshops](https://people.clas.ufl.edu/peterbubenik/conferences/)
-- [International Conference on Computational Topology and Topological Data Analysis](https://waset.org/computational-topology-and-topological-data-analysis-conference)
+- [Applied Algebraic Topology Research Network Calendar](https://appliedtopology.org/) - Community announcements for applied topology, TDA, workshops, schools, and related opportunities.
+- [Conferences and workshops](https://people.clas.ufl.edu/peterbubenik/conferences/) - Curated list of TDA, applied topology, and computational topology events.
+- [CG Week / Symposium on Computational Geometry](https://www.computational-geometry.org/cg-week/) - Annual computational geometry conference series; includes computational topology, topological data analysis, and related workshops.
+
+### 2027
+
+- [Jan. 19 - Jan. 22 | Topological Data Analysis and Industrial Mathematics | Kyushu University, Japan](https://joint.imi.kyushu-u.ac.jp/post-21190/)
+- [Jan. 24 - Jan. 29 | Bridging Topology and Machine Learning for Data Science | BIRS, Banff, Canada](https://www.birs.ca/events/2027/5-day-workshops/27w5781)
+- [Jun. | CG Week / SoCG 2027 | Bangalore, India](https://www.computational-geometry.org/cg-week/)
+- [Aug. 22 - Aug. 27 | Interactions of Topological Data Analysis and Combinatorial Topological Dynamics | BIRS, Banff, Canada](https://www.birs.ca/events/2027/5-day-workshops/27w5720)
 
 ### 2026
 
-- [Mar. 30 - Mar. 31 | H2O: Higher-Order Pattern-Discovery in High-Dimensional Data | Denmark](https://appliedtopology.org/)
-- [May. 11 - May. 12 | International Conference on Computational Topology and Topological Data Analysis ICCTTDA | France](https://conferenceindex.org/event/international-conference-on-computational-topology-and-topological-data-analysis-iccttda-2026-may-paris-fr)
-- [Nov. 30 | Workshop on Polyhedral Geometry for Neural Networks | Nuremberg](https://neuralpolytopes.gitlab.io/workshop2026/)
+- [Jan. 4 - Jan. 7 | TDA @ JMM 2026 | Washington, DC, USA](https://appliedtopology.org/tda-jmm-2026/)
+- [Feb. 2 - Feb. 6 | Topological Statistics, Data and Intelligence | Beijing, China](https://tsimf.tsinghua.edu.cn/info/1234/1206.htm)
+- [Feb. 12 - Feb. 13 | Topological Data Analysis and Representation Theory 2026 | Tohoku University, Japan / Hybrid](https://www.tfc.tohoku.ac.jp/other-activity/7155.html)
+- [Feb. 20 - Feb. 28 | OneMath World School: Topological Data Analysis and Applications | Chennai Mathematical Institute, India](https://www.cmi.ac.in/activities/kohli-centre/onemath-world-school-2026/)
+- [Mar. 30 - Mar. 31 | H2O: Higher-Order Pattern-Discovery in High-Dimensional Data | Aarhus University, Denmark](https://appliedtopology.org/h2o-higher-order-pattern-discovery-in-high-dimensional-data-aarhus-university-denmark-march-30-31-2026/)
+- [May. 18 - May. 21 | Foundations of Computational Geometry and Topology | ICERM, Providence, RI, USA](https://icerm.brown.edu/program/topical_workshop/tw-26-fcg)
+- [May. 18 - May. 22 | Geometry, Topology and Machine Learning | Paris, France](https://sites.google.com/view/gtml26/)
+- [Jun. 2 - Jun. 5 | CG Week / SoCG 2026 | Rutgers University, New Brunswick, NJ, USA](https://cgweek26.computational-geometry.org/)
+- [Jun. 4 - Jun. 5 | Theory and Applications of Topological Data Analysis | Rutgers University, New Brunswick, NJ, USA](https://tda-socg2026.netlify.app/)
+- [Jun. 8 - Jun. 12 | Jardine-Fest: Homotopy Theory, K-theory, and Topological Data Analysis | University of Western Ontario, Canada](https://appliedtopology.org/jardine-fest-at-university-of-western-ontario-june-8-12-2026/)
+- [Jul. 9 - Jul. 18 | FoCM 2026 | Vienna, Austria](https://focm2026.univie.ac.at/)
+- [Jul. 9 - Jul. 11 | FoCM Workshop: Computational Geometry and Topology | Vienna, Austria](https://focm2026.univie.ac.at/?page_id=1630)
+- [Sep. 28 - Oct. 2 | Persistent Homology and Applications in Topological Data | University of Bonn, Germany](https://math-events.uni-bonn.de/event/654/)
 
 ### 2025
 
